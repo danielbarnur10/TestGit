@@ -1,1 +1,2 @@
 # TestGit
+Learning repository
